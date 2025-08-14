@@ -5,6 +5,7 @@ include 'includes/conexion.php';
 // Inicializamos variable de mensaje
 $mensaje = "";
 
+// Verificamos que los datos hayan sido enviados por POST
 if(isset($_POST['nombre'], $_POST['correo'], $_POST['fecha'], $_POST['hora'], $_POST['Servicios'])) {
 
     $nombre = $_POST['nombre'];
@@ -54,7 +55,7 @@ if(isset($_POST['nombre'], $_POST['correo'], $_POST['fecha'], $_POST['hora'], $_
     $mensaje = "<p style='color:red; text-align:center;'>Todos los campos son requeridos.</p>";
 }
 
-// Mostrar mensaje y redirigir de vuelta al formulario después de 3 segundos
+// Mostramos el mensaje y redirigimos al formulario después de 3 segundos
 echo $mensaje;
 header("refresh:3; url=service.php");
 exit;
