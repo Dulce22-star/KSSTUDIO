@@ -1,13 +1,13 @@
 <?php
-$host = 'localhost';
-$usuario = 'root';
-$clave = ''; // deja vacío si no tienes contraseña
-$baseDeDatos = 'ks_citas';
+$host = "localhost";
+$user = "root"; // Usuario de XAMPP
+$pass = "";     // Contraseña de MySQL en tu servidor local
+$db = "ks_beauty_studio"; // Nombre de tu BD
 
-try {
-    $conexion = new PDO("mysql:host=$host;dbname=$baseDeDatos", $usuario, $clave);
-    $conexion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-} catch (PDOException $e) {
-    echo 'Error de conexión: ' . $e->getMessage();
+$conn = new mysqli($host, $user, $pass, $db);
+
+// Verificar conexión
+if ($conn->connect_error) {
+    die("Error de conexión: " . $conn->connect_error);
 }
 ?>

@@ -337,8 +337,8 @@
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Microblading"> Microblading</label> <span>$1500</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Micropigmentacion Hibrida"> Micropigmentacion Hibrida</label> <span>$1800</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Microshading"> Microshading</label> <span>$1800</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Depilacion de cejas con diseño"> Depilacion con diseño</label> <span>$50</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Planchado de ceja"> Planchado de ceja</label> <span>$200</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Depilacion de Cejas con Diseño"> Depilacion con diseño</label> <span>$50</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Planchado de Ceja"> Planchado de Ceja</label> <span>$200</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Henna Brows"> Henna Brows</label> <span>$300</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Pigmentacion de Cejas"> Pigmentacion de Cejas</label> <span>$140</span></div>
       </div>
@@ -348,10 +348,10 @@
     <div class="categoria-card">
       <strong>Faciales</strong>
       <div class="servicios-lista">
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Limpieza facial profunda"> Limpieza profunda</label> <span>$350</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Limpieza facial hidratante"> Limpieza hidratante</label> <span>$400</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Limpieza Facial Profunda"> Limpieza Facial Profunda</label> <span>$350</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Limpieza Facial Hidratante"> Limpieza Facial Hidratante</label> <span>$400</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Facial anti-edad"> Facial anti-edad</label> <span>$450</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Facial anti-acne"> Facial anti-acné</label> <span>$350</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Facial anti-acne"> Facial anti-acne</label> <span>$350</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Dermaplaning"> Dermaplaning</label> <span>$450</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Microdermoabrasion"> Microdermoabrasion</label> <span>$400</span></div>
       </div>
@@ -361,12 +361,12 @@
     <div class="categoria-card">
       <strong>Uñas</strong>
       <div class="servicios-lista">
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Uñas acrilicas"> Uñas acrílicas</label> <span>Desde $200</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Uñas Acrilicas"> Uñas Acrilicas</label> <span>Desde $200</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Baño de Acrilico"> Baño de Acrilico</label> <span>Desde $200</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Retoque de uñas"> Retoque</label> <span>Desde $200</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Gelish en manos"> Gelish en manos</label> <span>Desde $120</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Gelish en pies"> Gelish pies</label> <span>Desede $120</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Retiro de otro lado"> Retiro de otro lado</label> <span>$150</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Retoque de Uñas"> Retoque de Uñas</label> <span>Desde $200</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Gelish en Manos"> Gelish en Manos</label> <span>Desde $120</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Gelish en Pies"> Gelish en Pies</label> <span>Desede $120</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Retiro de otro lugar"> Retiro de otro lugar</label> <span>$150</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Retiro de KS STUDIO"> Retiro de KS STUDIO</label> <span>$100</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Pedicure"> Pedicure</label> <span>$300</span></div>
         <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Pedicure Jelly Spa"> Pedicure Jelly Spa</label> <span>$350</span></div>
@@ -377,8 +377,8 @@
     <div class="categoria-card">
       <strong>Cabello</strong>
       <div class="servicios-lista">
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Corte bordado"> Corte bordado</label> <span>$100</span></div>
-        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Extensiones de cabello"> Extensiones</label> <span>$3000</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Corte Bordado"> Corte Bordado</label> <span>$100</span></div>
+        <div class="servicio-item"><label><input type="checkbox" name="Servicios[]" value="Extensiones de Cabello"> Extensiones de Cabello</label> <span>$3000</span></div>
       </div>
     </div>
 
